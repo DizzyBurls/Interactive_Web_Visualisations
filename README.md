@@ -27,23 +27,23 @@ See screen captures 1 - 5 which I have uploaded to this repository. They show ma
 
 1) The URL required to view my work:
 
-![alt text](Screen_Captures/Screen_Capture_1-Address_Bar.JPG)
+![alt text](Screen_Captures/Screen_Capture_1-Address_Bar.PNG)
 
 2) The Dropdown Menu:
 
-![alt text](Screen_Captures/Screen_Capture_2-Dropdown_Menu.JPG)
+![alt text](Screen_Captures/Screen_Capture_2-Dropdown_Menu.PNG)
 
 3) The Demographic Information Panel:
 
-![alt text](Screen_Captures/Screen_Capture_3-Demographic_Info_Panel.JPG)
+![alt text](Screen_Captures/Screen_Capture_3-Demographic_Info_Panel.PNG)
 
 4) The Horizontal Bar Chart:
 
-![alt text](Screen_Captures/Screen_Capture_4-Horizontal_Bar_Chart.JPG)
+![alt text](Screen_Captures/Screen_Capture_4-Horizontal_Bar_Chart.PNG)
 
 5) The Bubble Chart.
 
-![alt text](Screen_Captures/Screen_Capture_5-Bubble_Chart.JPG)
+![alt text](Screen_Captures/Screen_Capture_5-Bubble_Chart.PNG)
 
 # URL that links to the final html display:
 
