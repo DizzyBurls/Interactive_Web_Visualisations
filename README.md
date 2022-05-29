@@ -27,7 +27,7 @@ See screen captures 1 - 5 which I have uploaded to this repository. They show ma
 
 1) The URL required to view my work:
 
-![alt text](Screen_Captures/Screen_Capture_1-Address_Bar.jpeg)
+![alt text](Screen_Captures/Screen_Capture_1-Address_Bar)
 
 2) The Dropdown Menu:
 
