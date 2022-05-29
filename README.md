@@ -1,80 +1,67 @@
-# Unit 14 Homework: Belly Button Biodiversity
+# Interactive_Web_Visualisations
 
-In this assignment, you will build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
+    Homework Task 11
+    Writen by Chris Burley
 
-The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
+## Task Components:
 
-## Instructions
+The Interactive Web-Visualisations project that you are currently viewing comprises the following key components:
 
-Complete the following steps:
+a) This ReadMe file
+.
+b) A folder of Screen Captures
+.
+c) The project folder: StarterCode
 
-1. Use the D3 library to read in `samples.json` from the URL `https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json`.
+The latter contains the key files:
 
-2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
+1) index.html     2) samples.json      3) app.js      
 
-  * Use `sample_values` as the values for the bar chart.
+  
+# Description:
 
-  * Use `otu_ids` as the labels for the bar chart.
+In this project I have written scripts which, to my knowledge, satisfy every section of the task. 
+See screen captures 1 - 5 which I have uploaded to this repository. They show main features that we were required to create.
 
-  * Use `otu_labels` as the hovertext for the chart.
+## Features of this project:
 
-  ![bar Chart](Images/hw01.png)
+1) The URL required to view my work:
 
-3. Create a bubble chart that displays each sample.
+![alt text](Screen_Captures/Screen_Capture_1-Address_Bar.jpeg)
 
-  * Use `otu_ids` for the x values.
+2) The Dropdown Menu:
 
-  * Use `sample_values` for the y values.
+![alt text](Screen_Captures/Screen_Capture_2-Dropdown_Menu.jpeg)
 
-  * Use `sample_values` for the marker size.
+3) The Demographic Information Panel:
 
-  * Use `otu_ids` for the marker colors.
+![alt text](Screen_Captures/Screen_Capture_3-Demographic_Info_Panel.jpeg)
 
-  * Use `otu_labels` for the text values.
+4) The Horizontal Bar Chart:
 
-![Bubble Chart](Images/bubble_chart.png)
+![alt text](Screen_Captures/Screen_Capture_4-Horizontal_Bar_Chart.jpeg)
 
-4. Display the sample metadata, i.e., an individual's demographic information.
+5) The Bubble Chart.
 
-5. Display each key-value pair from the metadata JSON object somewhere on the page.
+![alt text](Screen_Captures/Screen_Capture_5-Bubble_Chart.jpeg)
 
-![hw](Images/hw03.png)
+# URL that links to the final html display:
 
-6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
+https://dizzyburls.github.io/Interactive_Web_Visualisations/StarterCode/
 
-![hw](Images/hw02.png)
+     
+# Support
 
-7. Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
+    For any support with this module, please contact me at chrisjburley@gmail.com
+    I would be more than happy to help.
 
-## Advanced Challenge Assignment (Optional)
+# Contributions
 
-The following task is advanced and therefore optional.
+    As this is a piece of work that is going to be assessed, I think that it would be wise for me to suggest that contributions NOT be made to this module.
 
-* Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
+# Authors and Acknowledgments
 
-* You will need to modify the example gauge code to account for values ranging from 0 through 9.
-
-* Update the chart whenever a new sample is selected.
-
-![Weekly Washing Frequency Gauge](Images/gauge.png)
-
-
-## Hints
-
-* Use `console.log` inside of your JavaScript code to see what your data looks like at each step.
-
-* Refer to the [Plotly.js documentation](https://plot.ly/javascript/) when building the plots.
-
-## Rubric
-
-[Unit 14 Homework Rubric](https://docs.google.com/document/d/1wD_hOEJELD2hifTaECfx66xlpEdJeYm3mL8q2Zoq1vo/edit?usp=sharing)
-
-- - -
-
-## References
-
-Hulcr, J. et al. (2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
-
-- - -
-
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+    Author - Chris Burley (CJB)
+    I would like to thank Vrisha Parekh, my learning team's Educational Assistant, for her support with this work.
+    Unfortunatley, this project was released to us before the requisite content had been covered in lectures. As such, I needed some assistance getting started. 
+    Vrisha was very supportive and pushed me in the right direction when needed. Thanks!
