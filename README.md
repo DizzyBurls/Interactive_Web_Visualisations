@@ -15,7 +15,9 @@ c) The project folder: StarterCode
 
 The latter contains the key files:
 
-1) index.html     2) samples.json      3) app.js      
+(1) index.html <br>
+(2) samples.json <br>
+(3) app.js <br>      
 
   
 # Description:
@@ -27,23 +29,23 @@ See screen captures 1 - 5 which I have uploaded to this repository. They show ma
 
 1) The URL required to view my work:
 
-![alt text](Screen_Captures/Screen_Capture_1-Address_Bar.PNG)
+![alt text](Screen_Captures/Screen_Capture_1-Address_Bar.png)
 
 2) The Dropdown Menu:
 
-![alt text](Screen_Captures/Screen_Capture_2-Dropdown_Menu.PNG)
+![alt text](Screen_Captures/Screen_Capture_2-Dropdown_Menu.png)
 
 3) The Demographic Information Panel:
 
-![alt text](Screen_Captures/Screen_Capture_3-Demographic_Info_Panel.PNG)
+![alt text](Screen_Captures/Screen_Capture_3-Demographic_Info_Panel.png)
 
 4) The Horizontal Bar Chart:
 
-![alt text](Screen_Captures/Screen_Capture_4-Horizontal_Bar_Chart.PNG)
+![alt text](Screen_Captures/Screen_Capture_4-Horizontal_Bar_Chart.png)
 
 5) The Bubble Chart.
 
-![alt text](Screen_Captures/Screen_Capture_5-Bubble_Chart.PNG)
+![alt text](Screen_Captures/Screen_Capture_5-Bubble_Chart.png)
 
 # URL that links to the final html display:
 
